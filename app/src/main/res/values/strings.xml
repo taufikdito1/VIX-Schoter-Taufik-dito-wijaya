@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="title">Title</string>
+    <string name="published_date">Published Date</string>
+    <string name="save_bookmark">Save Bookmark?</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="nama_lengkap">Taufik Dito Wijaya</string>
+    <string name="username">taufikdito1</string>
+    <string name="github">Github</string>
+    <string name="github_icon">Github icon</string>
+    <string name="find_me">find me:</string>
+</resources>
